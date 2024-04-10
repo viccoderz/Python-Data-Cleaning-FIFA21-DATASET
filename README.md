@@ -2,6 +2,9 @@
 Introduction
 This repository hosts the code and documentation for cleaning and refining the FIFA21 dataset. The project aims to improve the quality and usability of the dataset, which contains valuable information about players featured in the renowned FIFA21 video game.
 
+## Table of Contents
+  [Dataset Source and Overview](#Dataset-Source-and-Overview)
+
 ### Dataset Source and Overview
 
 The FIFA 21 dataset used in this project was obtained from an open-source project, irene-arch.

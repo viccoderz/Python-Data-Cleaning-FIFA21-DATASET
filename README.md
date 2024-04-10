@@ -4,7 +4,7 @@ This repository hosts the code and documentation for cleaning and refining the F
 
 ### Dataset Source and Overview
 
-The FIFA 21 dataset used in this project was obtained from a data cleaning challenge on Twitter which I was a part of.
+The FIFA 21 dataset used in this project was obtained from an open-source project, irene-arch.
 It consists of player attributes, statistics and other relevant information.
 
 The original FIFA21 dataset contains 18K+ records of player data. Each record represents a unique player and includes
@@ -25,7 +25,7 @@ For the data cleaning project, the following tools and libraries were used:
 1. **Python** for data cleaning tasks.
 2. **Pandas** was instrumental in data manipulation, cleaning and handling missing values.
 3. **NumPy** was utilized for mathematical operations and array handling during the cleaning process.
-4. **Jupyter Notebooks** provided an interactive environment for code development, exploration and documentation.
+4. **Google Collab** provided an interactive environment for code development, exploration and documentation.
 
 ### Data Cleaning Process
 

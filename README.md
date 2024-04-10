@@ -41,9 +41,3 @@ The data cleaning process involved the following steps:
 4. **Standardizing formatting** - Inconsistent formatting issues eg the values in the Heights and Weights columns that were stored with different units were resolved by
    applying transformations, lambda functions and data normalization techniques.
 5. **Validation and quality checks** - The cleaned dataset underwent rigorous validation to ensure the quality, accuracy and integrity of the data.
-
-### Documentation
-
-For detailed information about the data cleaning process, please refer to the Jupyter notebooks provided in the repository as well as the YouTube link provided above.
-They contain step by step explanations, code samples and documentation showing each stage of the data cleaning process.
-A template to help facilitate the same if you would like to follow along from the YouTube video is also provided within this repository.
